@@ -11,7 +11,7 @@ My Skills include:
 ▪ Monitoring & Logging: Splunk
 ▪ Libraries: jQuery, React, NumPy, SciPy, scikit-learn, pandas, matplotlib, NetworkX, gurobipy
 
-I'm passionate about theoretical computer science, especially algorithms and computational complexity theory, and mathematics in general (currently Number Theory)!
+I'm passionate about theoretical computer science, especially algorithms and computational complexity theory, and mathematics in general (currently number theory)!
 
 Most of my repos are private due to the Georgia Tech Academic Honor Code, but I can showcase them to prospective employers. My public repos are quite dated, but showcase my skills using C++ and Java (at least the versions used in those projects)
 
