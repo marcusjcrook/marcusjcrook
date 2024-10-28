@@ -3,11 +3,10 @@
 I'm a software engineer with 5+ years of industry experience, currently pursuing an MS in Computer Science at Georgia Tech
 
 My skills include: <br />
-• Programming Languages (in order of proficiency): PHP, Java, Python, C++, C#, JavaScript, TypeScript <br />
-• Database Technologies (in order of proficiency): Database Technologies: MySQL, Oracle, SQL Server, NoSQL (Couchbase) <br />
-• Tools & Frameworks: Docker, Git, GitLab, Postman, Splunk, JetBrains, Smart GWT <br />
-• Web Development: Bootstrap, HTML, CSS <br />
-• Libraries & Data Science: jQuery, React, NumPy, SciPy, scikit-learn, pandas, matplotlib, NetworkX, gurobipy <br />
+• Programming Languages: PHP, Java, Python, C#, C++, JavaScript <br />
+• Databases: MySQL, Oracle, SQL Server <br />
+• Tools & Frameworks: Docker, Git, GitLab, Postman, Splunk, JetBrains, Smart GWT, Bootstrap <br />
+• Libraries & Data Science: jQuery, NumPy, SciPy, scikit-learn, pandas, matplotlib, NetworkX, gurobipy, AMPL <br />
 • Additional Competencies: CI/CD, Agile, Scrum, Unit & Integration Testing <br />
 
 I'm passionate about theoretical computer science, particularly algorithms, and I have a deep interest in mathematics, currently focusing on algebraic number theory!
