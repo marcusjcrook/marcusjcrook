@@ -1,11 +1,12 @@
-## Hi there 👋, thanks for visiting my GitHub!
+## Hi there 👋
 
-I'm a software engineer with almost 7 years of industry experience, currently pursuing an M.S. in Computer Science at Georgia Tech (Computing Systems specialization).
+Software engineer, 7+ years of industry experience. M.S. in Computer Science from Georgia Tech (Computing Systems) and M.A. in Philosophy (graduate work in mathematical logic and axiomatic set theory).
 
-I’m most proficient in Python, PHP, and Java, with strong applied experience across Python’s ML and scientific computing stack (NumPy, Pandas, Scikit-learn, PyTorch, SciPy, NetworkX, etc.).
+**Primary:** C# / .NET, Python, SQL
+**Also:** PHP, Java, and Python's ML/scientific computing stack (NumPy, Pandas, Scikit-learn, PyTorch, SciPy, NetworkX)
 
-Most of my repos are private due to the Georgia Tech Academic Honor Code, but I can showcase them to prospective employers. My public repos are dated, but showcase my skills using C++ and Java (at least the versions used in those projects)
+Most repos are private per the Georgia Tech Academic Honor Code; available on request for prospective employers. Public repos are older C++/Java work.
 
-Interests: abstract algebra and computational number theory
+**Interests:** abstract algebra, computational number theory, mathematical logic
 
-Please see my [LinkedIn](https://www.linkedin.com/in/marcusjcrook/) for additional information 😁
+[LinkedIn](https://www.linkedin.com/in/marcusjcrook/)
