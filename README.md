@@ -1,11 +1,13 @@
-Software engineer with 7+ years of industry experience. M.S. in Computer Science from Georgia Tech and M.A. in Philosophy (graduate work in mathematical logic).
- 
-**Primary:** [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
- 
-**Also:** [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#), and Python's ML/scientific computing stack: [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white)](#)
- 
-Most repos are private per the Georgia Tech Academic Honor Code; available on request for prospective employers.
- 
-**Interests:** abstract algebra & computational number theory
- 
+Backend Software Engineer with seven years of industry experience.
+
+**Education:** M.S. Computer Science (Georgia Tech) | M.A. Philosophy
+
+**Primary:** [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#) [![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?logo=microsoftsqlserver&logoColor=white)](#)
+
+**Academic / Personal Projects:** [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#) [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](#) [![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)](#)
+
+Most repos are private per the Georgia Tech Academic Honor Code but are available upon request to prospective employers.
+
+**Interests:** mathematical structures, computational number theory
+
 [LinkedIn](https://www.linkedin.com/in/marcusjcrook/)
