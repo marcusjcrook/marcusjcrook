@@ -8,7 +8,7 @@
 
 :mortar_board: **Education:** M.S. Computer Science (Georgia Tech) | M.A. Philosophy
 
-:abacus: **Interests:** mathematical structures, computational number theory
+:abacus: **Interests:** Abstract algebra, computational number theory
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcusjcrook/) or via [email](mailto:marcus.j.crook.1@gmail.com).
 
