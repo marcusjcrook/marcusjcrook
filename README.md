@@ -12,7 +12,5 @@ Backend Software Engineer with seven years of industry experience.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcusjcrook/) or via [email](mailto:marcus.j.crook.1@gmail.com).
 
-*Seven years of backend work have taught me a single, humbling truth: the bug is always in the place I swore, with great confidence, that I had already checked. I now consider this a form of fiscal planning.*
-
 <sub>All coursework repos are private per the Georgia Tech Academic Honor Code but are available upon request to prospective employers.</sub>
 
