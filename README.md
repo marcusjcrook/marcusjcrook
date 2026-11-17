@@ -10,7 +10,7 @@ Backend Software Engineer with seven years of industry experience.
 
 &nbsp;&nbsp;&nbsp;&nbsp; :abacus: **Interests:** Abstract algebra, computational number theory
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcusjcrook/) or via [email](mailto:marcus.j.crook.1@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcusjcrook/).
 
 <sub>All coursework repos are private per the Georgia Tech Academic Honor Code but are available upon request to prospective employers.</sub>
 
